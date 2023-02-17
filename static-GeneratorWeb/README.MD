@@ -1,4 +1,4 @@
-This is a simple stsic-generator site
+This is a simple static-generator site
 I used an example from Cloud Academy
 Some of the codes I created using ChatGpt
 changed a code in the css file a code removes the vendor prefixes for the transition property, since they're no longer necessary for modern browsers. It also removes the redundant ease-in-out values for the transition property, since that's the default timing function
